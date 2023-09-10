@@ -1,0 +1,24 @@
+<!DOCKTYPE html>
+<html>
+  <head>
+    
+    <title>Noticiass</title>
+    
+  </head>
+  <body>
+       <ul>
+         <li><a href="index.html">Home</a></li>
+         <li><a href="aulin.html">Noticias</a></li>
+         <li><a href="contato.html">Contatos</a></li>
+       </ul>
+
+  <!-->
+       <ol>
+          <li>item1</li>
+          <li>item2</li>
+          <li>item3</li>
+       </ol>
+
+        https://www.google.com.br/?hl=pt-BR
+  </body>
+</html>
